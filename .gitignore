@@ -1,0 +1,13 @@
+# Tiling outputs (generated; not source)
+output/
+tile_index/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
