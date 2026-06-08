@@ -11,3 +11,6 @@ venv/
 # OS / editor
 .DS_Store
 *.swp
+
+# Conversation
+conversation/
